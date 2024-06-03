@@ -1,0 +1,54 @@
+.status-done {
+    background-color: #28a745;
+    color: white;
+}
+
+.status-inprogress {
+    background-color: #ffc107;
+    color: black;
+}
+
+.status-failed {
+    background-color: #dc3545;
+    color: white;
+}
+
+.status-newtask {
+    background-color: #343a40;
+    color: white;
+}
+
+.status-default {
+    background-color: #6c757d;
+    color: white;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    margin: 0.2em;
+    font-size: 0.75em;
+    font-weight: 600;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 0.25rem;
+}
+
+.tag-light {
+    background-color: #6c757d;
+}
+
+.rounded-img {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.dependency-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.rounded-img {
+    border-radius: 50%;
+}
